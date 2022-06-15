@@ -1,0 +1,24 @@
+I created database that is multitenant in nature that prompted me to add two more tables called Branch and company tables
+
+Inplemented all security features like.
+
+User logs table
+Data changes update table.
+Data is not deleted permanently but set to inactive state which users can access apart from admin
+
+The database can perform the following.
+1.Capture all classes
+2.View Class streams
+3.Capture student Data and assign a student to a particular class stream
+4.View a single class stream
+5.Edit student and stream data
+6.Delete student data
+7.View a single student data
+8.view all student data
+9.view student that belong to a particular class stream
+
+I also created API.
+
+It was incomplete because of the heavy workload.
+But I have a full system that I can share with you that has both DB API and UI
+
